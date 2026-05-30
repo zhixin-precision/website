@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
+
+  <!-- 百度专用站点地图 - 适配移动端标注 -->
+  <url>
+    <loc>https://www.zhixin-precision.com/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <mobile:mobile type="pc,mobile"/>
+  </url>
+  <url>
+    <loc>https://www.zhixin-precision.com/products.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <mobile:mobile type="pc,mobile"/>
+  </url>
+  <url>
+    <loc>https://www.zhixin-precision.com/about.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <mobile:mobile type="pc,mobile"/>
+  </url>
+  <url>
+    <loc>https://www.zhixin-precision.com/contact.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <mobile:mobile type="pc,mobile"/>
+  </url>
+  <url>
+    <loc>https://www.zhixin-precision.com/catalog.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <mobile:mobile type="pc,mobile"/>
+  </url>
+
+</urlset>

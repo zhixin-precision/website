@@ -1,0 +1,579 @@
+{
+  "list-3-1.html": {
+    "category": {
+      "name": "数据分析软件与数据传输",
+      "id": "cat-data",
+      "num": 1
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-3-2.html"
+    ]
+  },
+  "Tool.html": {
+    "category": {
+      "name": "量具",
+      "id": "cat-tools",
+      "num": 2
+    },
+    "products": [
+      {
+        "name": "IP67防水数显卡尺",
+        "img": "1195s.jpg"
+      },
+      {
+        "name": "左手数显卡尺",
+        "img": "1130s.jpg"
+      },
+      {
+        "name": "塑料数显卡尺",
+        "img": "1139s.jpg"
+      },
+      {
+        "name": "IP67防水数显深度尺",
+        "img": "1440s.jpg"
+      },
+      {
+        "name": "防水数显深度尺",
+        "img": "1149s.jpg"
+      },
+      {
+        "name": "带表测深规",
+        "img": "2343s.jpg"
+      },
+      {
+        "name": "二维手动测高仪(内置气浮)",
+        "img": "DHG-V-s.jpg"
+      },
+      {
+        "name": "数显万分高度计",
+        "img": "1155s.jpg"
+      },
+      {
+        "name": "带手轮数显高度尺",
+        "img": "1156s.jpg"
+      },
+      {
+        "name": "大尺寸数显外径比较测量仪",
+        "img": "2935s.jpg"
+      },
+      {
+        "name": "万能比较测量台",
+        "img": "2949s.jpg"
+      },
+      {
+        "name": "多功能比较卡尺",
+        "img": "1198s.jpg"
+      },
+      {
+        "name": "直进式数显千分尺(带杠杆测力装置)",
+        "img": "3632s.jpg"
+      },
+      {
+        "name": "IP65防水数显外径千分尺(带数据传输接口)",
+        "img": "3101s.jpg"
+      },
+      {
+        "name": "内测千分尺(经济型)",
+        "img": "3220s.jpg"
+      },
+      {
+        "name": "数显直进式管状内径千分尺",
+        "img": "3635s.jpg"
+      },
+      {
+        "name": "数显大行程三点内径千分尺",
+        "img": "3663s.jpg"
+      },
+      {
+        "name": "数显半径规",
+        "img": "2188s.jpg"
+      },
+      {
+        "name": "数显圆弧半径卡尺",
+        "img": "1189s.jpg"
+      },
+      {
+        "name": "凹槽千分尺",
+        "img": "3287s.jpg"
+      },
+      {
+        "name": "枪式内沟槽宽量表",
+        "img": "2438s.jpg"
+      },
+      {
+        "name": "槽宽精密塞规",
+        "img": "4654s.jpg"
+      },
+      {
+        "name": "孔内键槽宽度精密塞规",
+        "img": "4660s.jpg"
+      },
+      {
+        "name": "键槽对称度量规",
+        "img": "4861s.jpg"
+      },
+      {
+        "name": "键槽对称度量规",
+        "img": "4865s.jpg"
+      },
+      {
+        "name": "倒角规",
+        "img": "1267s.jpg"
+      },
+      {
+        "name": "倒角高度规",
+        "img": "2943s.jpg"
+      },
+      {
+        "name": "数显倒角高度规",
+        "img": "2964s.jpg"
+      },
+      {
+        "name": "杠杆千分表",
+        "img": "2897s.jpg"
+      },
+      {
+        "name": "数显表(多功能)",
+        "img": "2103s.jpg"
+      },
+      {
+        "name": "自动检表仪",
+        "img": "ISQ-901-s.jpg"
+      },
+      {
+        "name": "螺距测量仪",
+        "img": "2234s.jpg"
+      },
+      {
+        "name": "内螺纹顶径测量仪",
+        "img": "2237s.jpg"
+      },
+      {
+        "name": "高精度数显内卡规",
+        "img": "2159s.jpg"
+      },
+      {
+        "name": "螺纹同心度环规",
+        "img": "4670s.jpg"
+      },
+      {
+        "name": "高精度钢量块套装",
+        "img": "4170s.jpg"
+      },
+      {
+        "name": "量块夹子",
+        "img": "6886s.jpg"
+      },
+      {
+        "name": "防水数显角度尺(重型)",
+        "img": "2174s.jpg"
+      },
+      {
+        "name": "垂直度仪",
+        "img": "4770s.jpg"
+      },
+      {
+        "name": "锥孔精密塞规",
+        "img": "4664s.jpg"
+      },
+      {
+        "name": "锥度检查仪",
+        "img": "4157s.jpg"
+      },
+      {
+        "name": "锥度塞规",
+        "img": "6326s.jpg"
+      },
+      {
+        "name": "机床主轴孔跳动检测规",
+        "img": "6327s.jpg"
+      },
+      {
+        "name": "偏摆检查仪",
+        "img": "4789s.jpg"
+      },
+      {
+        "name": "带滚轮偏摆检查仪",
+        "img": "4720s.jpg"
+      },
+      {
+        "name": "塞尺(经济型)",
+        "img": "4601s.jpg"
+      },
+      {
+        "name": "螺距规",
+        "img": "4825s.jpg"
+      },
+      {
+        "name": "数显楔形塞尺",
+        "img": "1160s.jpg"
+      },
+      {
+        "name": "花岗岩平板",
+        "img": "6900s.jpg"
+      },
+      {
+        "name": "V形架",
+        "img": "6896s.jpg"
+      },
+      {
+        "name": "磁性V形架(经济型)",
+        "img": "6890s.jpg"
+      }
+    ],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-19-1.html",
+      "list-23-1.html",
+      "list-27-1.html",
+      "list-30-1.html",
+      "list-35-1.html",
+      "list-41-1.html",
+      "list-353-1.html",
+      "list-58-1.html",
+      "list-63-1.html",
+      "list-67-1.html",
+      "list-72-1.html",
+      "list-81-1.html",
+      "list-89-1.html",
+      "list-109-1.html",
+      "list-305-1.html",
+      "list-306-1.html",
+      "list-117-1.html",
+      "list-133-1.html"
+    ]
+  },
+  "list-208-1.html": {
+    "category": {
+      "name": "水平仪",
+      "id": "cat-level",
+      "num": 3
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-208-2.html"
+    ]
+  },
+  "list-421-1.html": {
+    "category": {
+      "name": "在机测量",
+      "id": "cat-onmachine",
+      "num": 4
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-421-2.html"
+    ]
+  },
+  "list-445-1.html": {
+    "category": {
+      "name": "测头和光栅尺",
+      "id": "cat-probe-scale",
+      "num": 5
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html"
+    ]
+  },
+  "list-194-1.html": {
+    "category": {
+      "name": "圆度仪·轮廓仪·粗糙度仪",
+      "id": "cat-roundness",
+      "num": 6
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-194-2.html"
+    ]
+  },
+  "list-164-1.html": {
+    "category": {
+      "name": "三坐标测量机",
+      "id": "cat-cmm",
+      "num": 7
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-164-2.html"
+    ]
+  },
+  "list-422-1.html": {
+    "category": {
+      "name": "投影仪·闪测仪·影像仪",
+      "id": "cat-vision",
+      "num": 8
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-422-2.html"
+    ]
+  },
+  "list-178-1.html": {
+    "category": {
+      "name": "刀具检测",
+      "id": "cat-tool-check",
+      "num": 9
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html"
+    ]
+  },
+  "list-182-1.html": {
+    "category": {
+      "name": "显微镜·放大镜",
+      "id": "cat-microscope",
+      "num": 10
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-182-2.html",
+      "list-182-3.html",
+      "list-182-4.html",
+      "list-182-5.html"
+    ]
+  },
+  "list-190-1.html": {
+    "category": {
+      "name": "内窥镜",
+      "id": "cat-endoscope",
+      "num": 11
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-190-2.html"
+    ]
+  },
+  "list-152-1.html": {
+    "category": {
+      "name": "其他几何测量仪器",
+      "id": "cat-geometry-other",
+      "num": 12
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-152-2.html",
+      "list-152-3.html"
+    ]
+  },
+  "list-161-1.html": {
+    "category": {
+      "name": "自动化测量",
+      "id": "cat-automation",
+      "num": 13
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html"
+    ]
+  },
+  "list-215-1.html": {
+    "category": {
+      "name": "硬度计",
+      "id": "cat-hardness",
+      "num": 14
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-215-2.html",
+      "list-215-3.html"
+    ]
+  },
+  "list-173-1.html": {
+    "category": {
+      "name": "金相装备",
+      "id": "cat-metallography",
+      "num": 15
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-173-2.html"
+    ]
+  },
+  "list-420-1.html": {
+    "category": {
+      "name": "探伤仪",
+      "id": "cat-ndt",
+      "num": 16
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-420-2.html"
+    ]
+  },
+  "list-220-1.html": {
+    "category": {
+      "name": "试验机·推拉力计·张力计",
+      "id": "cat-force",
+      "num": 17
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-220-2.html",
+      "list-220-3.html"
+    ]
+  },
+  "list-225-1.html": {
+    "category": {
+      "name": "扭矩仪·扭矩扳手",
+      "id": "cat-torque",
+      "num": 18
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-225-2.html",
+      "list-225-3.html"
+    ]
+  },
+  "list-419-1.html": {
+    "category": {
+      "name": "元素分析",
+      "id": "cat-element",
+      "num": 19
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html"
+    ]
+  },
+  "list-351-1.html": {
+    "category": {
+      "name": "涂层检测",
+      "id": "cat-coating",
+      "num": 20
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-351-2.html",
+      "list-351-3.html"
+    ]
+  },
+  "list-424-1.html": {
+    "category": {
+      "name": "环境测试",
+      "id": "cat-environment",
+      "num": 21
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-424-2.html",
+      "list-424-3.html"
+    ]
+  },
+  "list-444-1.html": {
+    "category": {
+      "name": "其他仪器",
+      "id": "cat-other-instruments",
+      "num": 22
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-444-2.html"
+    ]
+  },
+  "list-375-1.html": {
+    "category": {
+      "name": "可靠性试验",
+      "id": "cat-reliability",
+      "num": 23
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html"
+    ]
+  },
+  "list-307-1.html": {
+    "category": {
+      "name": "衡器",
+      "id": "cat-weighing",
+      "num": 24
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-307-2.html",
+      "list-307-3.html"
+    ]
+  },
+  "list-443-1.html": {
+    "category": {
+      "name": "液体和气体检测",
+      "id": "cat-liquid-gas",
+      "num": 25
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-443-2.html"
+    ]
+  },
+  "list-442-1.html": {
+    "category": {
+      "name": "压力表",
+      "id": "cat-pressure",
+      "num": 26
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html"
+    ]
+  },
+  "list-423-1.html": {
+    "category": {
+      "name": "电子测试",
+      "id": "cat-electronic",
+      "num": 27
+    },
+    "products": [],
+    "hasMorePages": true,
+    "otherPages": [
+      "list-8-1.html",
+      "list-423-2.html"
+    ]
+  }
+}

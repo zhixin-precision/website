@@ -1,0 +1,8 @@
+node_modules/
+.claude/
+insize_pages/
+insize_intro.txt
+insize_intro2.txt
+insize_production.html
+insize_home.html
+*.jsonl

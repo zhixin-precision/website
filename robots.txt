@@ -1,0 +1,48 @@
+# 知信精密测量 - robots.txt
+# https://www.zhixin-precision.com/
+
+User-agent: *
+Allow: /
+Disallow: /js/
+Disallow: /css/
+
+# Sitemap
+Sitemap: https://www.zhixin-precision.com/sitemap.xml
+
+# 百度爬虫
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+# 百度图片爬虫
+User-agent: Baiduspider-image
+Allow: /
+Crawl-delay: 2
+
+# Google爬虫
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Googlebot-Image
+Allow: /
+
+# 必应爬虫
+User-agent: bingbot
+Allow: /
+Crawl-delay: 1
+
+# 360爬虫
+User-agent: 360Spider
+Allow: /
+Crawl-delay: 2
+
+# 搜狗爬虫
+User-agent: Sogou web spider
+Allow: /
+Crawl-delay: 2
+
+# 禁止爬取的内容
+Disallow: /*.json$
+Disallow: /*.jsonl$
+Disallow: /insize_pages/
