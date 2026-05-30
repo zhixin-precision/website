@@ -978,6 +978,58 @@ h4 { font-size: 1.1rem; }
   border-color: var(--primary);
 }
 
+/* Brand Certificate Cards */
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 24px;
+  margin-top: 32px;
+}
+.cert-card {
+  display: block;
+  text-align: center;
+  padding: 32px 20px;
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  background: white;
+  transition: all 0.25s ease;
+  text-decoration: none;
+  color: var(--text);
+}
+.cert-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.1);
+  border-color: var(--accent);
+}
+.cert-icon {
+  font-size: 3rem;
+  margin-bottom: 16px;
+}
+.cert-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  color: var(--primary);
+}
+.cert-card p {
+  font-size: 0.9rem;
+  color: var(--text-light);
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+.cert-download {
+  display: inline-block;
+  padding: 8px 20px;
+  background: var(--accent);
+  color: white;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+.cert-card:hover .cert-download {
+  background: #b87a0c;
+}
+
 /* Product Detail Grid & Cards */
 .product-detail-grid {
   display: grid;
