@@ -21,10 +21,13 @@ echo 🚀 正在推送到 GitHub...
 git push github main
 
 echo.
-echo ⏳ Netlify 检测到更新，正在自动部署...
+echo 🌐 正在部署到 Netlify...
+set NETLIFY_AUTH_TOKEN=nfp_5jSzNpktE4ysSqH5yuRHUh3kBbHrj5p6a18e
+npx netlify-cli@latest deploy --dir=. --prod
+
+echo.
 echo ========================================
 echo ✅ 更新完成！
-echo    约1-2分钟后生效：
-echo    https://gilded-kangaroo-8ecaa7.netlify.app
+echo    网站地址：https://gilded-kangaroo-8ecaa7.netlify.app
 echo ========================================
 pause
