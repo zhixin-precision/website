@@ -1,0 +1,56 @@
+# 知信精密 - Netlify 配置文件
+# https://www.zhixin-precision.com/
+
+# ===== 强制 HTTPS 跳转 =====
+[[redirects]]
+  from = "http://*zhixin-precision.com/*"
+  to = "https://www.zhixin-precision.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://zhixin-precision.com/*"
+  to = "https://www.zhixin-precision.com/:splat"
+  status = 301
+  force = true
+
+# ===== 安全响应头 =====
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+# ===== 缓存策略 =====
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000, immutable"
+
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/sitemap.xml"
+  [headers.values]
+    Content-Type = "application/xml; charset=utf-8"
+
+[[headers]]
+  for = "/robots.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"

@@ -3,8 +3,8 @@
 
 User-agent: *
 Allow: /
-Disallow: /js/
-Disallow: /css/
+Disallow: /*.json$
+Disallow: /*.jsonl$
 
 # Sitemap
 Sitemap: https://www.zhixin-precision.com/sitemap.xml
@@ -41,8 +41,3 @@ Crawl-delay: 2
 User-agent: Sogou web spider
 Allow: /
 Crawl-delay: 2
-
-# 禁止爬取的内容
-Disallow: /*.json$
-Disallow: /*.jsonl$
-Disallow: /insize_pages/
