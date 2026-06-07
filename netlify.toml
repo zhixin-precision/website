@@ -1,18 +1,20 @@
 # 知信精密 - Netlify 配置文件
 # https://www.zhixin-precision.com/
 
-# ===== 强制 HTTPS 跳转 =====
+# ===== 强制 HTTPS + www 跳转 =====
+
+# 1. 所有 HTTP 请求 → HTTPS www（核心规则）
 [[redirects]]
-  from = "http://*zhixin-precision.com/*"
+  from = "/*"
   to = "https://www.zhixin-precision.com/:splat"
   status = 301
   force = true
 
+# 2. 非 www → www（HTTPS）
 [[redirects]]
-  from = "http://zhixin-precision.com/*"
+  from = "https://zhixin-precision.com/*"
   to = "https://www.zhixin-precision.com/:splat"
   status = 301
-  force = true
 
 # ===== 安全响应头 =====
 [[headers]]
